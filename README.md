@@ -6,5 +6,6 @@ Our robot was constructed in a 7-week period regarding M.E.R.C 2023 tournament. 
 
 Team Submarine: An Thien Dinh (Samuel/Sam), Tan Ngoc Doan, Bao Quang Vo, Huy Quang Nguyen, Hang Thi-Thuy Le (Arris, Team captain).
 
-Official documentation (English): https://oddeyemotion.github.io/odd/projects/p04-submarine/\
+Official documentation (English): https://oddeyemotion.github.io/odd/projects/p04-submarine
+
 Project logs (Vietnamese): https://projectcocoon.org/projects/209/submarine#tab=logs
