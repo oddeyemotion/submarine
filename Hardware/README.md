@@ -5,10 +5,10 @@ In this folder you may find useful resources about our robot's hardware.
 ### DIY 12-roller omni wheel
 STL files for 3D printing can be located in ***DIY 12-roller omni wheel*** folder, or you can also visit [Thingiverse](https://www.thingiverse.com/thing:6040100).
 
-This wheel design is part of a robot car project I made with some friends for a school competition, perfectly compatible with common 12mm hex wheel adapter.
-
 More details about the development of this design at
-https://oddeyemotion.github.io/odd/projects/p04-submarine/p04-30-39-technical-details/p04-32-hardware/p04-32-00-drivetrain/
+[Drivetrain - @oddeyemotion's Project Documentation](https://oddeyemotion.github.io/odd/projects/p04-submarine/p04-30-39-technical-details/p04-32-hardware/p04-32-00-drivetrain/)
+
+This wheel design is part of a robot car project I made with some friends for a school competition, perfectly compatible with common 12mm hex wheel adapter.
 
 I used the original design as a guide to redraw it with the same diameter as my tractor wheels, which are approximately 66-67mm in diameter. I replaced the paper clips, which are about 1mm in diameter, with a bunch of 2mm steel rods that were cut to 25-27mm in length.
 
@@ -25,5 +25,6 @@ Secured with:
 12x regular pairs of 12mm M2 bolts and nuts (recommended 10mm in length for better fit)
 
 ### Gripper (final version)
-More info will be updated in the future.
-![](https://oddeyemotion.github.io/odd/projects/p04-submarine/media/gripper-hand-final-ver-fish.jpg)
+Source files will be updated in the future.
+
+More details about the development of this design at [End effector - @oddeyemotion's Project Documentation](https://oddeyemotion.github.io/odd/projects/p04-submarine/p04-30-39-technical-details/p04-32-hardware/p04-32-02-ee/)
