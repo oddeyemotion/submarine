@@ -2,7 +2,7 @@
 
 In this folder you may find useful resources about our robot's hardware.
 
-### DIY 12-roller omni wheel
+## DIY 12-roller omni wheel
 STL files for 3D printing can be located in ***DIY 12-roller omni wheel*** folder, or you can also visit [Thingiverse](https://www.thingiverse.com/thing:6040100).
 
 More details about the development of this design at
@@ -24,7 +24,7 @@ Secured with:
 6x regular 8mm M3 bolts layered with 3x female M3 brass hex standoff pillar rod spacer in the middle
 12x regular pairs of 12mm M2 bolts and nuts (recommended 10mm in length for better fit)
 
-### Gripper (final version)
+## Gripper (final version)
 Source files will be updated in the future.
 
 More details about the development of this design at [End effector - @oddeyemotion's Project Documentation](https://oddeyemotion.github.io/odd/projects/p04-submarine/p04-30-39-technical-details/p04-32-hardware/p04-32-02-ee/)
