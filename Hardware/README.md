@@ -25,3 +25,4 @@ Secured with:
 12x regular pairs of 12mm M2 bolts and nuts (recommended 10mm in length for better fit)
 
 ### Gripper (final version)
+![](https://oddeyemotion.github.io/odd/projects/p04-submarine/media/gripper-hand-final-ver-fish.jpg)
