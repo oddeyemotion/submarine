@@ -17,7 +17,6 @@ Our printer has an error margin of about 0.4mm.
 It is recommended to use 3 layers of heat shrink tubing for each roller's coverage.
 
 Order of assembly: Top half 1 - Top half 2 - Middle plus - Middle - Bottom half 2 - Bottom half 1
-(I am sorry for the confusion T__T)
 
 Secured with:
 
@@ -28,3 +27,6 @@ Secured with:
 Source files will be updated in the future.
 
 More details about the development of this design at [End effector - @oddeyemotion's Project Documentation](https://oddeyemotion.github.io/odd/projects/p04-submarine/p04-30-39-technical-details/p04-32-hardware/p04-32-02-ee/)
+
+## Gear power transmission system
+More details at [Manipulator - @oddeyemotion's Project Documentation](https://oddeyemotion.github.io/odd/projects/p04-submarine/p04-30-39-technical-details/p04-32-hardware/p04-32-01-manipulator/)
