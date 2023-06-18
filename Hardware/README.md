@@ -23,3 +23,5 @@ Secured with:
 
 6x regular 8mm M3 bolts layered with 3x female M3 brass hex standoff pillar rod spacer in the middle
 12x regular pairs of 12mm M2 bolts and nuts (recommended 10mm in length for better fit)
+
+### Gripper (final version)
